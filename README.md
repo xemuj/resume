@@ -15,48 +15,46 @@ Blvrd. Hosp. Militar 12-80 Zona 16 Guatemala city |
     Nicosia (Cyprus)
 
 2007-2010
-:   **BSc, Computer Science Engineering**; Universidad de San Carlos de
+:   **Computer Science Engineering**; Universidad de San Carlos de
     Guatemala (Guatemala)
 
 2002-2006
-:   **Forestry Engineering**; Escuela Nacional Cental de Agricultura
+:   **Forestry**; Escuela Nacional Cental de Agricultura
     Bárcenas, Villa Nueva (Guatemala)
 
 ## Experience
 
 **Digital prosecutor(movimiento semilla):**
 
-Apoye en la fiscalizacion de las Elecciones Nacionales de Guatemala para eleccion de Presidente y Diputados por el partido Semilla:
+Support in the control of the  national elections of Guatemala for the political party Movimiento Semilla.
 
-* Evidencié errores graves en el sistema informático
+* I evidenced serious errors in the computer system
 
-* Artículo de Nomada [link](https://nomada.gt/pais/elecciones-2019/la-presion-sobre-el-tse-la-intervencion-del-mp-y-los-errores-en-las-elecciones-que-descartan-fraude/) con mis observaciones del Proceso.
+* Press post about it by Nomada [link](https://nomada.gt/pais/elecciones-2019/la-presion-sobre-el-tse-la-intervencion-del-mp-y-los-errores-en-las-elecciones-que-descartan-fraude/) with my observations of the Process.
 
-**Software Developer and Database Assistance (OIM)**
+**Software Developer and Database Assistance (OIM an UN office)**
 
-La organizacion Internacional para las migraciones tiene como objetivo apoyar a los gobiernos del Triangulo norte en temas migratorios, principalmente retornados, mis objetivos principales es crear encuestas digitales y llegar las bases de datos asi como tambien desarrollo de software.
+The IOM works given support to the goverment of Central America on migrations issues, mainly with returnees people, my job is about create digital surveys and analyze and maintain the data base. Also develop sofware for internal use into the organization and for the geverment when its required.
 
-* Creacion de mapas de retornados en QGIS
+* Create maps of the returnees people in QGIS.
 
-* Creacion de Instrumentos para Encuestas
+* Create Surveys.
 
-* Desarrollo del Sistema Integrado de Regristro 
-  de Albergues (SIRA)
+* Develop of Sistema Integrado de Regristro 
+  de Albergues (SIRA). Translated, Integrated sistem of registration of shelters.
 
 **GIS analyst (GYFSA)**
 
-A mi cargo estaba la creacion de una red de antenas GNSS para correccion en tiempo real por internet NTRIP desarrollada por Topcon TopNETlive
+Create a network of antennas GNSS to real time kinematic correction online NTRIP developed by Topcon TopNETlive at Guatemala, El Salvador and Honduras.
 
 
 ## Technical Experience
 
 LYNX CRYPTO LABS, S.A.
-:   Fundador de la primer exchange BTC/GTQ en guatemala, logrando enlazar
-    al banco con mas agencias en el pais al mundo blockchain.
+:   Founder of the first exchange BTC / GTQ in guatemala, managing to link the bank with more agencies in the country to the blockchain world.
 
 Foro Cryptomonedas para Asociacion Bancaria de Guatemala
-:   Participe como panelista y presentador ante dicha Asociacion 
-    el tema principal fue como los bancos pueden aprovechas las nuevas tecnologias y como mejorar la experiencia de usuario para sus clientes
+:   I participated as a panelist and presenter before the Association, the main topic was how banks can take advantage of new technologies and how to improve the user experience for their clients
     (with [ceiba.io](http://ceiba.io))
 
 Grupos y Asociaciones
@@ -66,13 +64,13 @@ Grupos y Asociaciones
 *   CSLC (Comunidad de Software Libre de Centroamerica) [link](https://t.me/slcentroamerica)
 *   ubuntu gt [link](https://t.me/ubuntugt)
 
-Traducciones y Mejoras en UX
-:   Apoye en varias traducciones principalmente en Dapps en la blockchain EOS a español y apoyo en el mejoramiento de UX
+Translations and support UX
+:   I supported the translation of Dapps at EOS blockchain from english to spanish and helped to improve the UX
 *   [bloks.io](https://bloks.io/)
 *   TokenPoket app [link](https://tokenpocket.pro)
 
 monibus
-:   Desarrollo de software para seguimiento de buses escolares en tiempo real para su monitoreo y seguridad en un colegio de prestigio en guatemala
+:   Develop software to track school busses in real time.
 
 Programming Languages
 :   **PHP:** This is my main software language, I use CodeIgniter as my favorite framework i have improve some libraries that you can see in my [GitHub].
@@ -83,7 +81,7 @@ Programming Languages
     file). 
 
 :   **Esperanto** I know that this is not a programming language but is
-    awesome.
+    awesome AF.
 
 :   Basic knowledge of **C++**, **Solidity**, **Python**, **Common Lisp**
 
@@ -98,7 +96,3 @@ Programming Languages
      * Spanish (native speaker)
      * English (needs improvement)
      * Esperanto (need practice)
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
