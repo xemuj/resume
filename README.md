@@ -30,7 +30,7 @@ Support in the control of the  national elections of Guatemala for the political
 
 * I evidenced serious errors in the computer system
 
-* Press post about it by Nomada [link](https://nomada.gt/pais/elecciones-2019/la-presion-sobre-el-tse-la-intervencion-del-mp-y-los-errores-en-las-elecciones-que-descartan-fraude/) with my observations of the Process.
+* Press post about it by Nomada [link](https://nomada.gt/pais/elecciones-2019/la-presion-sobre-el-tse-la-intervencion-del-mp-y-los-errores-en-las-elecciones-que-descartan-fraude/) with my observations of the Process (spanish).
 
 **Software Developer and Database Assistance (OIM an UN office)**
 
@@ -50,40 +50,66 @@ Create a network of antennas GNSS to real time kinematic correction online NTRIP
 
 ## Technical Experience
 
-LYNX CRYPTO LABS, S.A.
-:   Founder of the first exchange BTC / GTQ in guatemala, managing to link the bank with more agencies in the country to the blockchain world.
+**SIRA (Sistema Integrado de Registro de Albergues)**
+The Fuego Volcano erupted on 3 June 2018 displacing over 4,700 people from their communities of origin. Many people also lost their lives during the natural disaster. As part of a coordinated response to a Government request, I as part of the IOM´s information team for the Northern Triangle of Central America developed a first version of the Integrated Shelter Registry System (SIRA) to facilitate collective site management in terms of identification of affected population, family reunification, missing persons reporting, protection for vulnerable population, citizen security at shelters and general information.
 
-Foro Cryptomonedas para Asociacion Bancaria de Guatemala
-:   I participated as a panelist and presenter before the Association, the main topic was how banks can take advantage of new technologies and how to improve the user experience for their clients
-    (with [ceiba.io](http://ceiba.io))
+The SIRA became the official tool for the Government of Guatemala to register population in shelters and continues to be used today for reconstruction and recovery processes. However, during the initial response to the crisis, there were several lessons learned that could have saved more lives, prevent mismanagement of NFIs donated by the private sector and diaspora, as well as improved health for IDPs and inventory management at collective sites by expanding the system and making its installation easier and faster. Additionally, during the current recovery phase, many government institutions have had problems identifying and delivering cash transfer programs to the people in need due to on-the-field conditions as well as response times (paperwork) and the location of Governmental offices.
+* PHP
+* MySQL
+* JavaScript
+* Google Auth
+* EOS Blockchain (next version)
 
-Grupos y Asociaciones
-:   Miembro activo en diferentes grupos tecnologicos del país
+**LYNX CRYPTO LABS, S.A.:**
+Founder of the first exchange BTC/GTQ in guatemala, managing to link the bank with more agencies in the country to the blockchain world.
+* PHP
+* MySQL
+* JavaScript
+* Google 2FA
+* CreditCard Payments
+* Bank API for transactions
+* Bitcoin and EOS Blockchain
+
+**Foro Cryptomonedas para Asociacion Bancaria de Guatemala:**
+I participated as a panelist and presenter before the Association, the main topic was how banks can take advantage of new technologies and how to improve the user experience for their clients (with [ceiba.io](http://ceiba.io))
+
+**Groups and Associations:** 
+Active member in different technological groups in Guatemala
 *   ACUCRIP [link](http://acucrip.com)
 *   Ceiba [link](http://ceiba.io)
 *   CSLC (Comunidad de Software Libre de Centroamerica) [link](https://t.me/slcentroamerica)
 *   ubuntu gt [link](https://t.me/ubuntugt)
 
-Translations and support UX
-:   I supported the translation of Dapps at EOS blockchain from english to spanish and helped to improve the UX
-*   [bloks.io](https://bloks.io/)
-*   TokenPoket app [link](https://tokenpocket.pro)
+**Translations and support UX:** 
+I supported the translation of Dapps at EOS blockchain from english to spanish and helped to improve the UX
+* [bloks.io](https://bloks.io/)
+* [TokenPoket](https://tokenpocket.pro)
 
-monibus
-:   Develop software to track school busses in real time.
+**Monibus:** 
+Develop software to track school busses in real time.
+* PHP
+* JavaScript
+* MySQL and Firebase
 
-Programming Languages
-:   **PHP:** This is my main software language, I use CodeIgniter as my favorite framework i have improve some libraries that you can see in my [GitHub].
+**Projects for [FLACSO](https://flacso.com.gt/cal):**
 
-:   **JavaScript:** Description of your experience with second-lang,
-    perhaps again including a [git], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+* PHP
+* MySQL
+* JavaScript
+* Google Auth
 
-:   **Esperanto** I know that this is not a programming language but is
-    awesome AF.
+## Programming Languages
 
-:   Basic knowledge of **C++**, **Solidity**, **Python**, **Common Lisp**
+**PHP:** 
+This is my main software language, I use CodeIgniter as my favorite framework i have improve some libraries that you can see in my [GitHub].
+
+**JavaScript:** 
+Description of your experience with second-lang, perhaps again including a [GitHub], this time placing the url reference elsewhere in the document to reduce clutter (see source file).
+
+**Esperanto:** 
+I know that this is not a programming language but is awesome AF.
+
+Basic knowledge of **C++**, **Solidity**, **Go**, **Python**
 
 [GitHub]: https://github.com/xemuj/
 [sergio@lynx.com.gt]: mailto:sergio@lynx.com.gt
@@ -96,3 +122,12 @@ Programming Languages
      * Spanish (native speaker)
      * English (needs improvement)
      * Esperanto (need practice)
+
+* Other technologies used
+
+     * Docker
+     * PhoneGap
+     * Stripe
+     * ArcGIS, QGIS
+     * ODK (OpenDataKit)
+     * NTRIP
