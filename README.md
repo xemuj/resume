@@ -104,7 +104,7 @@ Develop software to track school busses in real time.
 This is my main software language, I use CodeIgniter as my favorite framework i have improve some libraries that you can see in my [GitHub].
 
 **JavaScript:** 
-Description of your experience with second-lang, perhaps again including a [GitHub], this time placing the url reference elsewhere in the document to reduce clutter (see source file).
+It is one of the languages that I would like to focus on, I have used it for some test applications with blockchain (nothing in production) and in some serverless services.
 
 **Esperanto:** 
 I know that this is not a programming language but is awesome AF.
@@ -131,3 +131,4 @@ Basic knowledge of **C++**, **Solidity**, **Go**, **Python**
      * ArcGIS, QGIS
      * ODK (OpenDataKit)
      * NTRIP
+     * Google (most of my time)
