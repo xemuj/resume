@@ -32,13 +32,13 @@ Support in the control of the  national elections of Guatemala for the political
 
 * Press post about it by Nomada [link](https://nomada.gt/pais/elecciones-2019/la-presion-sobre-el-tse-la-intervencion-del-mp-y-los-errores-en-las-elecciones-que-descartan-fraude/) with my observations of the Process (spanish).
 
-**Software Developer and Database Assistance (OIM an UN office)**
+**Senior Software, Database and GIS Developer (OIM an UN office)**
 
 The IOM works given support to the goverment of Central America on migrations issues, mainly with returnees people, my job is about create digital surveys and analyze and maintain the data base. Also develop sofware for internal use into the organization and for the geverment when its required.
 
 * Create maps of the returnees people in QGIS.
 
-* Create Surveys.
+* Create Surveys with XLSForm.
 
 * Develop of Sistema Integrado de Regristro 
   de Albergues (SIRA). Translated, Integrated sistem of registration of shelters.
